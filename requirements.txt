@@ -26,7 +26,7 @@ botocore
 celery
 # via sentry
 certifi
-.24        # via requests
+      # via requests
 cffi
 # via cryptography, milksnake
 chardet
@@ -53,7 +53,7 @@ django-storages
 django-sudo
 # via sentry
 django-templatetag-sugar
-via sentry
+
 django
 # via django-secure, sentry
 djangorestframework
