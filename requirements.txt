@@ -1,3 +1,4 @@
+six==1.10.0               # via cryptography, mock, more-itertools, parsimonious, pyopenssl, pytest, python-dateutil, python-memcached, python-utils, qrcode, sentry, structlog
 -e git+git://github.com/getsentry/sentry-auth-google.git@578432dfeb7b16a681b4aeddbefd3cd2dbf5759f#egg=sentry-auth-google
 amqp==1.4.9               # via kombu
 anyjson==0.3.3            # via kombu
@@ -88,7 +89,6 @@ sentry-github==0.1.2
 sentry==9.0.0
 setproctitle==1.1.10      # via sentry
 simplejson==3.8.2         # via sentry
-six==1.10.0               # via cryptography, mock, more-itertools, parsimonious, pyopenssl, pytest, python-dateutil, python-memcached, python-utils, qrcode, sentry, structlog
 sqlparse==0.1.19          # via sentry
 statsd==3.1               # via sentry
 strict-rfc3339==0.7       # via sentry
