@@ -1,5 +1,5 @@
 language: python
-python: "3.4"
+python: "2.7.17"
 sudo: false
 install:
   - pip install --upgrade pip
